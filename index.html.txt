@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>PSL<title>
+</head>
+<body>
+<ol>
+<li>KArachi Kings</li>
+<li>Rawalpindi</li>
+<li>Abottabad</li>
+<li>Peshawar</li>
+<li>Lahore</li>
+<li>Queta</li>
+<li>Islamabad</li>
+<li>Mumbai Indians</li>
+</ol>
+</body>
+</html>
